@@ -1,0 +1,17 @@
+# Virtual environments
+venv/
+.venv/
+
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Log and output files
+*.log
+*.out
+*.tmp
+
+
+# Secrets and config files
+*.env
+config.yaml
